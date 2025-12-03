@@ -1,5 +1,5 @@
 # JavaScript Overview
-Repositorio tutorial de fácil acceso al lenguaje de JavaScript. Facilita el aprendizaje de este lenguaje para todos aquellos que ya conozcan las bases de la programación y cualquier otro lenguaje de programación (como por ejemplo, Python). 
+Repositorio tutorial de fácil acceso al lenguaje de JavaScript. Facilita el aprendizaje de este lenguaje para todos aquellos que ya conozcan las bases de la programación y cualquier otro lenguaje de programación (como por ejemplo, Python). También es susceptible de servir como repaso para todos aquellos que ya han visto alguna vez algo o bastante de JavaScript y por cuestiones de desuso o falta de hábito hayan olvidado sintaxis. ¡Todo es completamente válido aquí, desde el más novato al más veterano!
 
 
 # Métodos de aprendizaje
